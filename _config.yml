@@ -6,15 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: study hye!!
-description: 승혜는 매일 공부혜...라는 모토로 운영되는 코딩 블로그입니다.
-github_username: fastai
+
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "fastpages"
+github_repo: "study_hye"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
-url: "https://fastpages.fast.ai" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://Seunghye97.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 ###########################################################
 #########  Special Instructions for baseurl ###############
@@ -34,7 +32,7 @@ url: "https://fastpages.fast.ai" # the base hostname & protocol for your site, e
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "" # the subpath of your site, e.g. "/blog".
+baseurl: "/study_hye" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
@@ -58,7 +56,7 @@ annotations: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: UA-57531313-5
+google_analytics: 
 
 exclude:
   - docker-compose.yml
